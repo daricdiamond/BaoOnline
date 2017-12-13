@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/themes/main.master" AutoEventWireup="true" CodeFile="secondMaster.master.cs" Inherits="themes_secondMaster" %>
+
+<%@ Register Src="~/themes/right.ascx" TagPrefix="uc1" TagName="right" %>
+
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
+    <asp:ContentPlaceHolder ID="ctHead" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ctBreking" runat="Server">
+    <asp:ContentPlaceHolder ID="ctBreakingS" runat="server"></asp:ContentPlaceHolder>
+</asp:Content>
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
+    <div class="main-header-footer">
+        <div class="clearfix"></div>
+        <div class="main-sections">
+            <div class="sections sections-content sections-right-sidebar">
+                <div class="container">
+                    <div class="row">
+                        <div class="with-sidebar-container">
+                            <div class="col-md-8 main-container">
+                                <asp:ContentPlaceHolder ID="ctArticer" runat="server"></asp:ContentPlaceHolder>
+
+                            </div>
+                            <div class="first-sidebar sidebar-col col-md-4 sticky-sidebar">
+                                <uc1:right runat="server" ID="right" />
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</asp:Content>
+

@@ -1,0 +1,124 @@
+@import url('css/base1c9b.css?ver=4.6.1');
+@import url('css/bootstrap.min1c9b.css?ver=4.6.1');
+@import url('css/prettyPhoto1c9b.css?ver=4.6.1');
+@import url('css/font-awesome/css/font-awesome.min1c9b.css?ver=4.6.1');
+@import url('css/EnFonto/style1c9b.css?ver=4.6.1');
+@import url('css/animate-custom1c9b.css?ver=4.6.1');
+@import url('css/main1c9b.css?ver=4.6.1');
+@import url('css/responsive1c9b.css?ver=4.6.1');
+@import url('css/dark1c9b.css?ver=4.6.1');
+@import url('css/skins1c9b.css?ver=4.6.1');
+@import url('css/custom1c9b.css?ver=4.6.1');
+
+img.wp-smiley, img.emoji {
+    display: inline!important;
+    border: none!important;
+    box-shadow: none!important;
+    height: 1em!important;
+    width: 1em!important;
+    margin: 0 .07em!important;
+    vertical-align: -0.1em!important;
+    background: none!important;
+    padding: 0!important;
+}
+
+::-moz-selection {
+    background: #DEBA79;
+}
+
+::selection {
+    background: #DEBA79;
+}
+
+.go-up, .button-default, .top-search input[type="submit"], .bottom-header .navigation > div > ul > li.current_page_item > a:before, .bottom-header .navigation div ul li a.current:before, .bottom-header .navigation > div > ul > li.current-menu-parent > a:before, .bottom-header .navigation > div > ul > li:hover > a:before, .post-title h3:before, .widget-title h3:before, .widget-title-tabs li a.current:before, .post-title-tabs li a.current:before, .breaking-news-title h3, .head-slide-2 .slide-item .slide-content .slide-data .slide-category, .head-slide-show .owl-controls .owl-buttons > div:hover, .post-img .owl-controls .owl-buttons > div:hover, input[type="submit"], .styled-select::before, .widget_tag_cloud a:hover, .tagcloud a:hover, .comment-reply.button-default, .comment-edit-link, .comment-reply-link, .comment-reply-login, .pagination .page-numbers.current, .post-pagination > span, .v-post.attachment-post .head-slide .slide-category a:hover, .fakefile span, .navigation ul > li ul:before, .mega-menu-content:before, .accordion-title.active, .dark_skin .accordion-title.active, .post-type, .page-navigation-before a, .posts-load-more a, .post-type:before, .comment-login-login, .comment-login-logout:hover, .box-slideshow .owl-controls .owl-buttons > div:hover, .box-slideshow-inner .slide-category, .scroll-news-new .slide-item .slide-content .slide-data .slide-category, .box-news-4 .slide-category, .tab-news-4 li a.current:before, .switcher .switcherContents header h5 a, .switcher .switcher-show-hide {
+    background-color: #DEBA79;
+}
+
+.color, .header-follow li a:hover, .top-search-active a, .top-header .navigation ul li a:hover, .top-header .navigation ul li.current_page_item > a, .navigation li ul li.current_page_item > a, .navigation li ul li a:hover, .navigation li:hover > a, .top-header .navigation > div > ul > li.current_page_item > a, .top-header .navigation > div > ul > li.current-menu-parent > a, .logo a:hover, .breadcrumbs-main a:hover, .breaking-news-content a:hover, .widget li a:hover, .top-header .navigation div ul li a.current, .navigation div ul li.current-menu-item > a, #wp-calendar a, #footer a:hover, .page-404 h2, h1.post-head-title a:hover, .post-inner-content a, .post-tags a, .comment-form a, .comment-meta a:hover, .comment-text .text a, .user-area .user-content .social-ul a:hover, .page-navigation-single span, .navigation-content > a:hover, .post-title a.category-rss-i:hover, .mega-menu-title a:hover, .dark_skin .mega-menu-title a:hover, .navigation .cat-active > a, .post-contact-us .contact-data li i, .portfolio-filter ul li a:hover, .portfolio-filter ul li.current a, .box-news-title a:hover, .box-news-more a:hover, .dark_skin .box-news-more a:hover, .box-news .box-news-big:hover .box-news-title a, .box-news .box-news-small:hover .box-news-title a, .post-title-tabs .tabs li a:hover, .scroll-news.scroll-arrow-top .head-slide-show .owl-controls .owl-buttons > div:hover, .slider-arrow-top .head-slide-show .owl-controls .owl-buttons > div:hover, .scroll-news-new .slide-title a:hover, .post-title h3 a:hover, .top-footer-2 .tweet-item .tweet-text a:hover, .dark_skin .tweet-item .tweet-text a:hover, .top-header-2 .custom-text a:hover, .navigation_mobile > ul a:hover, .navigation_mobile > ul li:hover:before {
+    color: #DEBA79;
+}
+
+.loader_html, .top-search input[type="submit"], .breaking-news-title h3:after, .head-slide-2 .slide-item .slide-content .slide-data .slide-category, .widget_tag_cloud a:hover, .tagcloud a:hover, blockquote, .quote blockquote, .v-post.attachment-post .head-slide .slide-category a:hover, .box-news-active .box-news-small, .switcher .switcherContents header h5 a {
+    border-color: #DEBA79;
+}
+
+.head-slide-3 .slide-item:hover .slide-content .slide-hover {
+    background-color: rgba(33,150,243,0.8);
+}
+
+#sections-id-1 .box-slideshow {
+    margin-bottom: 30px;
+}
+
+.navigation {
+    font-family: UtmAvo;
+}
+
+.tabs {
+    font-family: UtmAvo;
+}
+body {
+    font-family: UtmAvo;
+	margin-top: 0px !important;
+}
+body, .quote p, input, button[type="submit"], .button-default, label, blockquote, h1, h2, h3, h4, h5, h6, .box-news-title, .post-link .post-inner-link.link, .box-slideshow-inner>a, .navigation-content>a, .box-news-more, .post-title h3, .widget-title{
+    font-family: UtmAvo;
+}
+.bottom-header {
+    background: rgba(243, 243, 243, 0.35) !important;
+    border: none;
+}
+
+.bottom-header-2 .navigation > div > ul > li > a {
+    border: none;
+    color: #003371;
+}
+
+    .bottom-header-2 .navigation > div > ul > li > a:hover {
+        color: #b77f19 !important;
+    }
+
+.bottom-header-2 .navigation > div > ul > li:first-child > a {
+    border: none;
+    color: #003371;
+}
+
+.bottom-header .navigation > div > ul > li.current-menu-item > a {
+    background-color: transparent;
+    color: #b77f19 !important;
+}
+
+.bottom-header.bottom-header-2 .navigation > div > ul > li.current-menu-item > a {
+    background-color: transparent;
+    color: #b77f19 !important;
+}
+.go-up, .button-default, .top-search input[type="submit"], .bottom-header .navigation > div > ul > li.current_page_item > a:before, .bottom-header .navigation div ul li a.current:before, .bottom-header .navigation > div > ul > li.current-menu-parent > a:before, .bottom-header .navigation > div > ul > li:hover > a:before, .post-title h3:before, .widget-title h3:before, .widget-title-tabs li a.current:before, .post-title-tabs li a.current:before, .breaking-news-title h3, .head-slide-2 .slide-item .slide-content .slide-data .slide-category, .head-slide-show .owl-controls .owl-buttons > div:hover, .post-img .owl-controls .owl-buttons > div:hover, input[type="submit"], .styled-select::before, .widget_tag_cloud a:hover, .tagcloud a:hover, .comment-reply.button-default, .comment-edit-link, .comment-reply-link, .comment-reply-login, .pagination .page-numbers.current, .post-pagination > span, .v-post.attachment-post .head-slide .slide-category a:hover, .fakefile span, .navigation ul > li ul:before, .mega-menu-content:before, .accordion-title.active, .dark_skin .accordion-title.active, .post-type, .page-navigation-before a, .posts-load-more a, .post-type:before, .comment-login-login, .comment-login-logout:hover, .box-slideshow .owl-controls .owl-buttons > div:hover, .box-slideshow-inner .slide-category, .scroll-news-new .slide-item .slide-content .slide-data .slide-category, .box-news-4 .slide-category, .tab-news-4 li a.current:before, .switcher .switcherContents header h5 a, .switcher .switcher-show-hide {
+    background-color: #deba79 !important;
+}
+.logo {
+    margin-top:0px !important;
+}
+.box-slideshow-small {
+    height:250px !important;
+}
+.box-slideshow-big {
+    height:500px !important;
+}
+.slide-item .slide-content .slide-image img {
+     height:170px !important;
+}
+.baiviet-bailienquan {
+    display:none;
+}
+.shareImage {
+    display:block;
+}
+body {
+    margin-top:-22px;
+}
+.post-inner-content {
+    line-height: 28px;
+    font-size: 14px;
+    overflow: hidden;
+    font-family: arial;
+}
